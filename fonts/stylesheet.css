@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'ElvenCommonSpeak';
+    src: url('ElvenCommonSpeak.eot');
+    src: url('ElvenCommonSpeak.eot?#iefix') format('embedded-opentype'),
+        url('ElvenCommonSpeak.woff2') format('woff2'),
+        url('ElvenCommonSpeak.woff') format('woff'),
+        url('ElvenCommonSpeak.ttf') format('truetype'),
+        url('ElvenCommonSpeak.svg#ElvenCommonSpeak') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elvish Ring NFI';
+    src: url('ElvishRingNFI.eot');
+    src: url('ElvishRingNFI.eot?#iefix') format('embedded-opentype'),
+        url('ElvishRingNFI.woff2') format('woff2'),
+        url('ElvishRingNFI.woff') format('woff'),
+        url('ElvishRingNFI.ttf') format('truetype'),
+        url('ElvishRingNFI.svg#ElvishRingNFI') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tengwar Elfica';
+    src: url('TengwarElfica.eot');
+    src: url('TengwarElfica.eot?#iefix') format('embedded-opentype'),
+        url('TengwarElfica.woff2') format('woff2'),
+        url('TengwarElfica.woff') format('woff'),
+        url('TengwarElfica.ttf') format('truetype'),
+        url('TengwarElfica.svg#TengwarElfica') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tengwar Elfica A';
+    src: url('TengwarElficaA.eot');
+    src: url('TengwarElficaA.eot?#iefix') format('embedded-opentype'),
+        url('TengwarElficaA.woff2') format('woff2'),
+        url('TengwarElficaA.woff') format('woff'),
+        url('TengwarElficaA.ttf') format('truetype'),
+        url('TengwarElficaA.svg#TengwarElficaA') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Runes';
+    src: url('ComicRunes.eot');
+    src: url('ComicRunes.eot?#iefix') format('embedded-opentype'),
+        url('ComicRunes.woff2') format('woff2'),
+        url('ComicRunes.woff') format('woff'),
+        url('ComicRunes.ttf') format('truetype'),
+        url('ComicRunes.svg#ComicRunes') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kitisakkullian';
+    src: url('Kitisakkullian.eot');
+    src: url('Kitisakkullian.eot?#iefix') format('embedded-opentype'),
+        url('Kitisakkullian.woff2') format('woff2'),
+        url('Kitisakkullian.woff') format('woff'),
+        url('Kitisakkullian.ttf') format('truetype'),
+        url('Kitisakkullian.svg#Kitisakkullian') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elvish Ring NFI';
+    src: url('ElvishRingNFI_1.eot');
+    src: url('ElvishRingNFI_1.eot?#iefix') format('embedded-opentype'),
+        url('ElvishRingNFI_1.woff2') format('woff2'),
+        url('ElvishRingNFI_1.woff') format('woff'),
+        url('ElvishRingNFI_1.ttf') format('truetype'),
+        url('ElvishRingNFI_1.svg#ElvishRingNFI') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futhark AOE';
+    src: url('FutharkAOE.eot');
+    src: url('FutharkAOE.eot?#iefix') format('embedded-opentype'),
+        url('FutharkAOE.woff2') format('woff2'),
+        url('FutharkAOE.woff') format('woff'),
+        url('FutharkAOE.ttf') format('truetype'),
+        url('FutharkAOE.svg#FutharkAOE') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futhark AOE';
+    src: url('FutharkAOEInline.eot');
+    src: url('FutharkAOEInline.eot?#iefix') format('embedded-opentype'),
+        url('FutharkAOEInline.woff2') format('woff2'),
+        url('FutharkAOEInline.woff') format('woff'),
+        url('FutharkAOEInline.ttf') format('truetype'),
+        url('FutharkAOEInline.svg#FutharkAOEInline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rune';
+    src: url('Rune.eot');
+    src: url('Rune.eot?#iefix') format('embedded-opentype'),
+        url('Rune.woff2') format('woff2'),
+        url('Rune.woff') format('woff'),
+        url('Rune.ttf') format('truetype'),
+        url('Rune.svg#Rune') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Protobesh AF';
+    src: url('ProtobeshAF.eot');
+    src: url('ProtobeshAF.eot?#iefix') format('embedded-opentype'),
+        url('ProtobeshAF.woff2') format('woff2'),
+        url('ProtobeshAF.woff') format('woff'),
+        url('ProtobeshAF.ttf') format('truetype'),
+        url('ProtobeshAF.svg#ProtobeshAF') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elder Futhark';
+    src: url('ElderFuthark.eot');
+    src: url('ElderFuthark.eot?#iefix') format('embedded-opentype'),
+        url('ElderFuthark.woff2') format('woff2'),
+        url('ElderFuthark.woff') format('woff'),
+        url('ElderFuthark.ttf') format('truetype'),
+        url('ElderFuthark.svg#ElderFuthark') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tengwar Annatar';
+    src: url('TengwarAnnatar-BoldItalic.eot');
+    src: url('TengwarAnnatar-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('TengwarAnnatar-BoldItalic.woff2') format('woff2'),
+        url('TengwarAnnatar-BoldItalic.woff') format('woff'),
+        url('TengwarAnnatar-BoldItalic.ttf') format('truetype'),
+        url('TengwarAnnatar-BoldItalic.svg#TengwarAnnatar-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tengwar Annatar';
+    src: url('TengwarAnnatar.eot');
+    src: url('TengwarAnnatar.eot?#iefix') format('embedded-opentype'),
+        url('TengwarAnnatar.woff2') format('woff2'),
+        url('TengwarAnnatar.woff') format('woff'),
+        url('TengwarAnnatar.ttf') format('truetype'),
+        url('TengwarAnnatar.svg#TengwarAnnatar') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VIKING, MIDDLE Runes';
+    src: url('VIKING-MIDDLE-Runes-Bold.eot');
+    src: url('VIKING-MIDDLE-Runes-Bold.eot?#iefix') format('embedded-opentype'),
+        url('VIKING-MIDDLE-Runes-Bold.woff2') format('woff2'),
+        url('VIKING-MIDDLE-Runes-Bold.woff') format('woff'),
+        url('VIKING-MIDDLE-Runes-Bold.ttf') format('truetype'),
+        url('VIKING-MIDDLE-Runes-Bold.svg#VIKING,-MIDDLE-Runes-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VIKING, MIDDLE Runes';
+    src: url('VIKING-MIDDLE-Runes.eot');
+    src: url('VIKING-MIDDLE-Runes.eot?#iefix') format('embedded-opentype'),
+        url('VIKING-MIDDLE-Runes.woff2') format('woff2'),
+        url('VIKING-MIDDLE-Runes.woff') format('woff'),
+        url('VIKING-MIDDLE-Runes.ttf') format('truetype'),
+        url('VIKING-MIDDLE-Runes.svg#VIKING,-MIDDLE-Runes') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tengwar Annatar';
+    src: url('TengwarAnnatar-Italic.eot');
+    src: url('TengwarAnnatar-Italic.eot?#iefix') format('embedded-opentype'),
+        url('TengwarAnnatar-Italic.woff2') format('woff2'),
+        url('TengwarAnnatar-Italic.woff') format('woff'),
+        url('TengwarAnnatar-Italic.ttf') format('truetype'),
+        url('TengwarAnnatar-Italic.svg#TengwarAnnatar-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tengwar Annatar';
+    src: url('TengwarAnnatar-Bold.eot');
+    src: url('TengwarAnnatar-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TengwarAnnatar-Bold.woff2') format('woff2'),
+        url('TengwarAnnatar-Bold.woff') format('woff'),
+        url('TengwarAnnatar-Bold.ttf') format('truetype'),
+        url('TengwarAnnatar-Bold.svg#TengwarAnnatar-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
